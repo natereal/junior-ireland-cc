@@ -1,0 +1,222 @@
+\documentclass{article}
+
+\usepackage[a4paper,margin=0.5cm]{geometry}
+\usepackage{colortbl}
+\usepackage{multirow}
+\usepackage{tikz}
+\usepackage{mathtools}
+\usepackage{kmath}
+
+\let\humlaut=\H
+\let\sectsym=\S
+\newcommand\C{\ensuremath{\clubsuit}}
+\newcommand\D{\color{red}\ensuremath{\vardiamondsuit}}
+\renewcommand\H{\color{red}\ensuremath{\varheartsuit}}
+\renewcommand\S{\ensuremath{\spadesuit}}
+\newcommand\N{{\footnotesize NT}}
+\newcommand\PASS{{\footnotesize PASS}}
+\newcommand\X{{\footnotesize X}}
+\newcommand\XX{{\footnotesize XX}}
+
+\newcommand\tick{\ensuremath{\surd}}
+
+
+
+\begin{document}
+\noindent
+\small{
+%\begin{minipage}{90mm}
+
+% ===================================================================
+% Supp Notes
+% ===================================================================
+
+\begin{tabular}{|l|}
+\hline \\[-1em]
+\cellcolor{green!25} \Large Supplementary Notes: Stephen Barr and Michael Donnelly \\[-1em]
+\\ \hline
+\end{tabular}
+
+\begin{tabular}{|l|}
+\hline \\[-1em]
+\cellcolor{green!25} \Large Note A1: Defence Against 1NT \\[-1em] 
+\\ \hline
+\\
+\Large Two suited bids show at least 4/4+  \\
+\\
+\Large DBL = Two touching suits: {\C}\&{\D} OR {\D}\&{\H} OR {\H}\&{\S} OR {\S}\&{\C} \\ 
+\large Resp: New suit NF, 3+. Partner may pass for penalties. \\
+\\
+\Large 2{\C} = {\C} \& {\H} \\
+\Large 2{\D} = {\D} \& {\S} \\
+\large Resp: Raises are To Play; New Suit = Constructive, NF \\
+\\
+\Large 2{\H} = NAT, 6+{\H} \\
+\Large 2{\S} = NAT, 6+{\S} \\
+\Large 2{\N} = 5/6+mm any strength OR 5+/5+MM very strong\\ 
+\Large 3{\C} = NAT, 6+{\C} \\
+\Large 3{\D} = NAT, 6+{\D} \\
+\\ \hline
+\end{tabular}
+
+\begin{tabular}{|l|}
+\hline \\[-1em]
+\cellcolor{green!25} \Large Note A2: Defence against strong club \\[-1em] 
+\\ \hline
+\\
+\Large Used against any forcing 1{\C} opening or {1\C} = 2+ in a Weak NT system \\
+\Large Non jump bids are two suited w/ suit bid and either the higher/lower touching suits \\
+\Large Two suited bids show 4+/4+ if weak variant, 5+/4+ is strong variant \\
+\Large 1NT shows non touching suits, jump bids are weak and one suited \\
+\\
+\Large DBL = 13+ semibalanced or balanced \\
+\\
+\Large (1{\C}) - 1{\D} = {\D} \& {\H} w/ L/T 13pts OR {\C} \& {\D} w/ 10-17pts \\
+\Large (1{\C}) - 1{\H} = {\H} \& {\S} w/ L/T 13pts OR {\D} \& {\H} w/ 10-17pts \\
+\Large (1{\C}) - 1{\S} = {\S} \& {\C} w/ L/T 13pts OR {\H} \& {\S} w/ 10-17pts \\
+\Large (1{\C}) - 2{\C} = {\C} \& {\D} w/ L/T 13pts OR {\C} \& {\S} w/ 10-17pts \\
+\\
+\Large (1{\C}) - 1{\N} = {\H} \& {\C} OR {\S} \& {\D} \\
+\\
+\Large (1{\C}) - 2{\D}+and higher = NAT and PRE-EMPTIVE \\
+\\
+\Large (1{\C}) - 2{\N} = Two suited, VERY unbalanced, lower ranked suit is at least 6 cards
+
+\\ \hline
+\end{tabular}
+
+\begin{tabular}{|l|}
+\hline \\[-1em]
+\cellcolor{green!25} \Large Note A3: Equal Level Conversion\\[-1em] 
+\\ \hline
+\\
+\Large Converting partner's response to a take out double at the same level does not promise extras. \\ 
+\Large This applies ONLY when the two remaining unbid suits are both at the same level. \\
+\\ \Large Convert {\C}/{\D} to {\H} at same level = {\H} + {\S} not promising extras
+\\ \Large Convert {\C} to {\D} at same level = {\D} + unbid major not promising extras
+
+\\ \hline
+\end{tabular}
+
+\begin{tabular}{|l|}
+\hline \\[-1em]
+\cellcolor{green!25} \Large Note A4: Competitive Doubles \\[-1em] 
+\\ \hline
+\\ 
+\Large Doubles are assumed to be take out unless clearly penalty \\
+\Large In unclear situations. our general agreement in competitive auctions 
+\\ \Large is that BIDDING = shape \& DBL = strength \\
+\\
+\Large \textbf{Negative doubles} up to 7{\H}; negative doubles may be one suited \\
+\\
+\Large \textbf{Responsive double;} (1x) - DBL - (2x) - DBL = 4+/4+ in the other rank \\
+\large May also apply in other auctions opponents have bid and raised \\
+\\
+\Large \textbf{Maximal overcall double;} when we have opened 1M and raised to 2M, 
+\Large \\ and opponents compete and raise, X = invitational raise \\
+\large e.g 1M - (1/2x) - 2M - (2/3x) - DBL = INV, 3M = sign off \\
+\\
+\Large \textbf{Two fast losers;} when we have agreed a suit and are in a GF auction, 
+\Large \\ double of the opponents suit shows two quick losers in the suit \\
+\\ \hline
+\end{tabular}
+
+\begin{tabular}{|l|}
+\hline \\[-1em]
+\cellcolor{green!25} \Large Note A5: Bargust \\[-1em] 
+\\ \hline
+\\ \Large 2{\N} ART asking bid: \\
+\\ \Large 2{\H} - 2{\N} - \\
+\\ \Large {3\C} = Good Suit
+\\ \Large {3\D} = Good points/good hand
+\\ \Large {3\H} = MIN/bad hand \\
+\\
+\\ \Large 2{\S} - 2{\N} - \\
+\\ \Large {3\C} = Good Suit
+\\ \Large {3\D} = Good points/good hand
+\\ \Large {3\H} = Good Suit + Good Points
+\\ \Large {3\S} = MIN/bad hand \\
+\\
+\\ \Large Applies in response to a 3rd/4th seat Weak Two opening
+\\ \Large or a Weak Jump Shift and possibly others \\ 
+\\ \hline
+\end{tabular}
+
+\begin{tabular}{|l|}
+\hline \\[-1em]
+\cellcolor{green!25} \Large Note A6: \\[-1em] 
+\\ \hline
+\\
+\\ \Large 1{\D} - 1{\H}/{1\S} 
+\\ \Large {2\C} = ART asking bid: 
+\\ \Large \hspace{10mm} {2\D} = MIN w/ 2+{\D}
+\\ \Large \hspace{10mm} 2M = MIN w/ 0-1{\D}
+\\ \Large \hspace{10mm} 2oM = NAT FG (unbid major)
+\\ \Large \hspace{10mm} 2{\N} = NAT FG 
+\\
+\\ \Large 1{\D} - 1{\H} 
+\\ \Large 2{\C} - 2{\H}
+\\ \Large 2{\N} = Asking:
+\\ \Large \hspace{10mm} 3{\C} = NAT 
+\\ \Large \hspace{10mm} 3{\D} = Void 
+\\ \Large \hspace{10mm} 3{\H} = NAT 
+\\ \Large \hspace{10mm} 3{\S} = 4{\S} \& 5{\H}
+\\
+\\ \hline
+\end{tabular}
+
+\begin{tabular}{|l|}
+\hline \\[-1em]
+\cellcolor{green!25} \Large Note A7: \\[-1em] 
+\\ \hline
+\\
+\\ \Large 1{\N} - 2{\N} = {\C} sign off or others:
+\\ \Large 3{\C} - 
+\\ \Large \hspace{10mm} PASS = Sign off {\C} \\
+\\ \Large \hspace{10mm} 3{\D} = 4144 singleton {\D}  
+\\ \Large \hspace{10mm} 3{\H} = 4414 singleton {\H}  
+\\ \Large \hspace{10mm} 3{\S} = 4441 singleton {\S}  
+\\ \Large \hspace{10mm} 3{\N} = 1444 singleton {\C}   \\
+\\ \Large \hspace{10mm} 4{\C} = 1430KC for {\C} 
+\\ \Large \hspace{10mm} 4{\D} = 1430KC for {\D} 
+\\ \Large \hspace{10mm} 4{\H}/{\S} = To Play from responder's side
+\\ \Large \hspace{10mm} 4{\N} = 1444, singleton {\C} too good for 3{\N} \\
+\\ \hline
+\end{tabular}
+
+\begin{tabular}{|l|}
+\hline \\[-1em]
+\cellcolor{green!25} \Large Note A8: \\[-1em] 
+\\ \hline
+\\
+\\ \Large 1{\N} - 2{\C} 
+\\ \Large {2\D} - 3{\H}/{\S} = 5 in oM and FG (does not promise both majors) \\
+\\ \hline
+\end{tabular}
+
+\begin{tabular}{|l|}
+\hline \\[-1em]
+\cellcolor{green!25} \Large Note B9: Carding\\[-1em] 
+\\ \hline
+\\ \Large When we decide to show signals, HI = EVEN or ENC
+\\ \Large First discard: ODD = ENC, EVEN = DISC and may be S/P \\
+\\ \Large Opening lead of ACE asks for ATT
+\\ \Large Opening lead of KING asks for COUNT \\
+
+\\ \hline
+\end{tabular}
+
+\begin{tabular}{|l|}
+\hline \\[-1em]
+\cellcolor{green!25} \Large Note B10: Other Signals \\[-1em] 
+\\ \hline
+\\
+\\ \Large \textbf{Smith Echo:} Against NT, HI in declarer's first played suit by either player \\
+\Large is ENC our opening lead \\
+\\ \Large \textbf{Trump Echo:} HI-LO in the trump suit implies the ability to ruff \\
+
+\\ \hline
+\end{tabular}
+
+
+\end{document}
