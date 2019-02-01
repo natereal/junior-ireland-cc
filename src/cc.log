@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.6.15)  8 JUL 2018 17:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.6.15)  1 FEB 2019 14:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -763,124 +763,119 @@ LaTeX Font Info:    Font shape `T1/mak/m/n' will be
 LaTeX Font Info:    Font shape `T1/mak/m/n' will be
 (Font)              scaled to size 4.49997pt on input line 50.
 
-Overfull \hbox (7.10944pt too wide) in paragraph at lines 50--111
+Overfull \hbox (7.10944pt too wide) in paragraph at lines 50--110
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 140--140
+Underfull \hbox (badness 10000) in paragraph at lines 139--139
 []|\OT1/txr/m/n/9 KQJ(+), KQT(+),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 141--141
+Underfull \hbox (badness 10000) in paragraph at lines 140--140
 []|\OT1/txr/m/n/9 QJT(+), QJ9x(+),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 158--158
-[]|\OT1/txr/m/n/9 HI=ENC our
- []
-
-
-Overfull \hbox (7.10944pt too wide) in paragraph at lines 118--185
+Overfull \hbox (7.10944pt too wide) in paragraph at lines 117--184
 [][]
  []
 
 
-Overfull \hbox (7.01324pt too wide) in paragraph at lines 118--185
+Overfull \hbox (7.01324pt too wide) in paragraph at lines 117--184
 []
  []
 
 
-Overfull \hbox (7.10944pt too wide) in paragraph at lines 118--185
+Overfull \hbox (7.10944pt too wide) in paragraph at lines 117--184
 []
  []
 
 
-Overfull \hbox (7.01324pt too wide) in paragraph at lines 118--185
+Overfull \hbox (7.01324pt too wide) in paragraph at lines 117--184
 []
  []
 
 
-Overfull \hbox (7.10944pt too wide) in paragraph at lines 118--185
+Overfull \hbox (7.10944pt too wide) in paragraph at lines 117--184
 []
  []
 
 
-Overfull \hbox (7.03625pt too wide) in paragraph at lines 118--185
+Overfull \hbox (7.03625pt too wide) in paragraph at lines 117--184
 []
  []
 
 
-Overfull \hbox (7.10944pt too wide) in paragraph at lines 118--185
+Overfull \hbox (7.10944pt too wide) in paragraph at lines 117--184
 [] 
  []
 
 
-Overfull \hbox (7.10944pt too wide) in paragraph at lines 191--249
+Overfull \hbox (7.10944pt too wide) in paragraph at lines 190--248
 [][] 
  []
 
 
-Overfull \hbox (1.56735pt too wide) in paragraph at lines 254--254
+Overfull \hbox (1.56735pt too wide) in paragraph at lines 253--253
 []|\OT1/txr/bx/n/9 ART| 
  []
 
 
-Overfull \hbox (1.42336pt too wide) in paragraph at lines 254--254
+Overfull \hbox (1.42336pt too wide) in paragraph at lines 253--253
 []|\OT1/txr/bx/n/9 MIN
  []
 
 
-Overfull \hbox (7.42636pt too wide) in paragraph at lines 254--254
+Overfull \hbox (7.42636pt too wide) in paragraph at lines 253--253
 \OT1/txr/bx/n/9 CRDS| 
  []
 
 
-Overfull \hbox (4.68135pt too wide) in paragraph at lines 254--254
+Overfull \hbox (4.68135pt too wide) in paragraph at lines 253--253
 []|\OT1/txr/bx/n/9 NEG.
  []
 
 
-Overfull \hbox (1.43234pt too wide) in paragraph at lines 254--254
+Overfull \hbox (1.43234pt too wide) in paragraph at lines 253--253
 \OT1/txr/bx/n/9 DBL| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 254--254
+Underfull \hbox (badness 10000) in paragraph at lines 253--253
 []|\OT1/txr/bx/n/9 COMPETITIVE & PASSED
  []
 
 
-Overfull \hbox (2.86046pt too wide) in paragraph at lines 251--351
+Overfull \hbox (2.86046pt too wide) in paragraph at lines 250--350
 [] 
  []
 
 [1
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (4.26413pt too wide) in paragraph at lines 352--363
+Overfull \hbox (4.26413pt too wide) in paragraph at lines 351--362
 [] 
  []
 
 LaTeX Font Info:    Font shape `OML/mak/m/it' will be
-(Font)              scaled to size 12.9599pt on input line 375.
+(Font)              scaled to size 12.9599pt on input line 374.
 LaTeX Font Info:    Font shape `OML/mak/m/it' will be
-(Font)              scaled to size 8.99994pt on input line 375.
+(Font)              scaled to size 8.99994pt on input line 374.
 LaTeX Font Info:    Font shape `OML/mak/m/it' will be
-(Font)              scaled to size 6.29996pt on input line 375.
+(Font)              scaled to size 6.29996pt on input line 374.
 LaTeX Font Info:    Font shape `T1/mak/m/n' will be
-(Font)              scaled to size 12.9599pt on input line 375.
+(Font)              scaled to size 12.9599pt on input line 374.
 LaTeX Font Info:    Font shape `T1/mak/m/n' will be
-(Font)              scaled to size 8.99994pt on input line 375.
+(Font)              scaled to size 8.99994pt on input line 374.
 LaTeX Font Info:    Font shape `T1/mak/m/n' will be
-(Font)              scaled to size 6.29996pt on input line 375.
+(Font)              scaled to size 6.29996pt on input line 374.
 [2] [3] [4] [5] [6] (./cc.aux) ) 
 Here is how much of TeX's memory you used:
  13915 strings out of 492995
  268044 string characters out of 6132704
- 359941 words of memory out of 5000000
+ 358941 words of memory out of 5000000
  17160 multiletter control sequences out of 15000+600000
  39189 words of font info for 101 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -892,7 +887,7 @@ fb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></us
 r/local/texlive/2017/texmf-dist/fonts/type1/public/txfonts/txsyc.pfb></usr/loca
 l/texlive/2017/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/
 2017/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on cc.pdf (6 pages, 63106 bytes).
+Output written on cc.pdf (6 pages, 63247 bytes).
 PDF statistics:
  51 PDF objects out of 1000 (max. 8388607)
  36 compressed objects within 1 object stream
